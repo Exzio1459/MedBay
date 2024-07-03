@@ -1,6 +1,6 @@
 # Automatic Pill Dispenser
 
-This project is an automatic pill dispenser using an Arduino. It uses various sensors to monitor environmental conditions and dispenses pills based on a predefined schedule.
+This project is an automatic pill dispenser using an Arduino. It dispenses pills based on a predefined schedule.
 This code is entirely built using ChatGPT and ClaudeAI.
 
 ### Hardware Setup
