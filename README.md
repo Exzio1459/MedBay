@@ -1,7 +1,6 @@
 # Automatic Pill Dispenser
 
 This project is an automatic pill dispenser using an Arduino. It dispenses pills based on a predefined schedule.
-This code is entirely built using ChatGPT and ClaudeAI.
 
 ### Hardware Setup
 
